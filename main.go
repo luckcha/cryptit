@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/luckcha/decrypt"
-	"github.com/luckcha/encrypt"
+	"github.com/luckcha/cryptit/decrypt"
+	"github.com/luckcha/cryptit/encrypt"
 )
 
 func main() {
