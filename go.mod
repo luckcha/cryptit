@@ -1,3 +1,3 @@
-module github.com/luckcha
+module github.com/luckcha/cryptit
 
 go 1.23.4
